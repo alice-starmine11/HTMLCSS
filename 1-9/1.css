@@ -1,4 +1,4 @@
-* {
+/** {*/
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -8,7 +8,9 @@
   font-size: 32px;
 }
 
-.position　{
+
+
+.position {
   position: absolute;
   top: 100px;
   right: 40px;
